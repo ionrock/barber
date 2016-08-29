@@ -11,10 +11,10 @@ Usage
 =====
 
 When you want to strip the newlines at the end of a command, just
-prefix it with `brbr`.
+prefix it with `barber`.
 
 ```bash
-$ brbr date +%Y-%m-%d
+$ barber date +%Y-%m-%d
 ```
 
 That's it.
